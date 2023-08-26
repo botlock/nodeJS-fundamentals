@@ -1,0 +1,13 @@
+{
+  "name": "api-rocketseat",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "Fundamentos node-js ",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "BOTLOCK",
+  "license": "ISC"
+}
